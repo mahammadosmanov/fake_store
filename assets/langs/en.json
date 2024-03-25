@@ -1,0 +1,22 @@
+{
+  "login": "Login",
+  "userName": "Username",
+  "password": "Password",
+  "welcome": "Welcome",
+  "failedToLogin": "Failed to login, please try again with, Username: mor_2314, Password: 83r5^_",
+  "fakeStore": "Fake Store",
+  "profile": "Profile",
+  "nameEntrance": "Enter your name",
+  "age": "Age",
+  "ageEntrance": "Enter your age",
+  "english": "English",
+  "azerbaijan": "Azerbaijan",
+  "turkish": "Turkish",
+  "signOut": "Sign Out",
+  "store": "Store",
+  "filters": "Filters",
+  "electronics": "Electronics",
+  "menClothing": "Men's Clothing",
+  "womenClothing": "Women's Clothing",
+  "jewelery": "Jewelery"
+}

@@ -1,0 +1,22 @@
+{
+  "login": "Giriş",
+  "userName": "Kullanıcı Adı",
+  "password": "Şifre",
+  "welcome": "Hoş geldiniz",
+  "failedToLogin": "Giriş başarısız, lütfen mor_2314 kullanıcı adı ve 83r5^_ şifresi ile tekrar deneyin",
+  "fakeStore": "Sahte Mağaza",
+  "profile": "Profil",
+  "nameEntrance": "Adınızı girin",
+  "age": "Yaş",
+  "ageEntrance": "Yaşınızı girin",
+  "english": "İngilizce",
+  "azerbaijan": "Azerbaycan",
+  "turkish": "Türkçe",
+  "signOut": "Çıkış Yap",
+  "store": "Mağaza",
+  "filters": "Filtreler",
+  "electronics": "Elektronik",
+  "menClothing": "Erkek Giyim",
+  "womenClothing": "Kadın Giyim",
+  "jewelery": "Mücevher"
+}

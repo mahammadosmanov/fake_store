@@ -1,0 +1,22 @@
+{
+  "login": "Daxil ol",
+  "userName": "İstifadəçi adı",
+  "password": "Şifrə",
+  "welcome": "Xoş gəlmisiniz",
+  "failedToLogin": "Daxil olma uğursuz oldu, xahiş edirəm, mor_2314 istifadəçi adı ilə və 83r5^_ şifrəsi ilə yenidən cəhd edin",
+  "fakeStore": "Sahte Mağaza",
+  "profile": "Profil",
+  "nameEntrance": "Adınızı daxil edin",
+  "age": "Yaş",
+  "ageEntrance": "Yaşınızı daxil edin",
+  "english": "İngiliscə",
+  "azerbaijan": "Azərbaycan",
+  "turkish": "Türkcə",
+  "signOut": "Çıxış et",
+  "store": "Mağaza",
+  "filters": "Filtrələr",
+  "electronics": "Elektronika",
+  "menClothing": "Kişi geyimləri",
+  "womenClothing": "Qadın geyimləri",
+  "jewelery": "Zərgərlik"
+}
